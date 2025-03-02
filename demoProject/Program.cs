@@ -10,6 +10,8 @@ namespace demoProject
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}!");
+            Console.WriteLine("Added a new branch yay!");
+            
         }
     }
 }
